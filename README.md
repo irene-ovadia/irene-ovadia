@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @irene-ovadia
-- 👀 I’m interested in open source projects
-- 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on Wikipedia and Wikimedia projects through Outreachy program
+- 👋 Hi, I'm @irene-ovadia
+- 👀 I'm interested in open source projects
+- 🌱 I'm currently learning Phyton
+- 💞️ I'm looking to collaborate on Wikipedia and Wikimedia projects through Outreachy program
 - 📫 How to reach me: ire.ovadia@gmail.com
 
 <!---
